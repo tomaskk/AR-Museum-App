@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TomasKazlauskas_QR_Code" size="0.100000 0.100000" />
+    <ImageTarget name="TomasK_QR_Code" size="0.080000 0.080000" />
+    <ImageTarget name="Joker_Black" size="0.060000 0.080615" />
+    <ImageTarget name="Joker_Colorful" size="0.060000 0.079736" />
+    <ImageTarget name="10_Spades" size="0.060000 0.079118" />
+    <ImageTarget name="CardBack" size="0.060000 0.085251" />
+    <ImageTarget name="A_Spades" size="0.060000 0.085636" />
+    <ImageTarget name="A_Clubs" size="0.060000 0.082565" />
+  </Tracking>
+</QCARConfig>
