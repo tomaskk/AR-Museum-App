@@ -1,4 +1,4 @@
-# AR-Museum-App
+# Papildytos realybės muziejaus aplikacijos prototipas
 
 Autorius - Tomas Kazlauskas, VU MIF Programų sistemos, 2020. 
 
